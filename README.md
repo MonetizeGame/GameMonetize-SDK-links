@@ -1,8 +1,13 @@
 <img src="https://gamemonetize.com/gamemonetize-logo-github.png" width="350" alt="" data-canonical-src="https://gamemonetize.com/gamemonetize-logo-github.png">  &nbsp;&nbsp;
 
-# SDK links and Templates
-This repository contains the GameMonetize.com SDK and Templates for your games. This allows you to display advertisements in the games published within the GameMonetize.com network.
+# Unity Templates
+<h3>WebGL Template (optimized):</h3>
+https://drive.google.com/file/d/1RWLygOH1yX1_sVC7pc2cP-V-HKMszRAE/
 
+<h3>Code Protections Unity:</h3>
+https://drive.google.com/file/d/1kG-pJlUNAvGdBVVD_fYj71d0Nh-VB6zI/
+
+# SDK links and Templates
 <h3>HTML SDK:</h3>
 https://drive.google.com/file/d/13l-YeEqS733TK48aQR193BCDe9-4fS2V/
 
