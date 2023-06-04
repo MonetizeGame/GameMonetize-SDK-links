@@ -1,11 +1,14 @@
 <img src="https://gamemonetize.com/gamemonetize-logo-github.png" width="350" alt="" data-canonical-src="https://gamemonetize.com/gamemonetize-logo-github.png">  &nbsp;&nbsp;
 
-# Unity Templates
+# Unity Templates - Links
 <h3>WebGL Template (optimized):</h3>
 https://drive.google.com/file/d/1RWLygOH1yX1_sVC7pc2cP-V-HKMszRAE/
 
 <h3>Code Protections Unity:</h3>
 https://drive.google.com/file/d/1kG-pJlUNAvGdBVVD_fYj71d0Nh-VB6zI/
+
+<h3>FireFox Portable:</h3>
+https://gamemonetize.fun/firefox-portable-60-0-1.exe
 
 # SDK links and Templates
 <h3>HTML SDK:</h3>
