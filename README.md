@@ -17,7 +17,7 @@ https://drive.google.com/file/d/13l-YeEqS733TK48aQR193BCDe9-4fS2V/
 <h3>Construct 2 SDK:</h3>
 https://drive.google.com/file/d/13l-YeEqS733TK48aQR193BCDe9-4fS2V/
 
-<h3>Construct 3 SDK:</h3>
+<h3>Construct 3 SDK (v2):</h3>
 https://drive.google.com/file/d/1qwhm5drPwjzdWMc01qH-NQzTJmINGudG/
 
 <h3>Unity SDK:</h3>
